@@ -1,0 +1,438 @@
+From aboegli at silentsoft.com  Wed Mar 16 14:19:03 2005
+From: aboegli at silentsoft.com (aboegli at silentsoft.com)
+Date: Wed, 16 Mar 2005 14:19:03 +0100
+Subject: [Plyme-dev] [Fwd: Re: Plyme...]
+Message-ID: <42383247.7000404@silentsoft.com>
+
+
+-- 
+Antoine Boegli
+Silentsoft SA
+Parc Scientifique PSE - EPFL
+CH-1015 Lausanne
+Switzerland
+Tel: +41 (0)21 693 8654
+aboegli at silentsoft.com 
+
+-------------- next part --------------
+An embedded message was scrubbed...
+From: Matthias Wiesmann <matthias.wiesmann at a3.epfl.ch>
+Subject: Re: Plyme...
+Date: Mon, 14 Mar 2005 16:45:02 +0100
+Size: 5974
+URL: <https://lists.berlios.de/pipermail/plyme-dev/attachments/20050316/f8483415/attachment.mht>
+
+From aboegli at silentsoft.com  Wed Mar 16 14:19:31 2005
+From: aboegli at silentsoft.com (aboegli at silentsoft.com)
+Date: Wed, 16 Mar 2005 14:19:31 +0100
+Subject: [Plyme-dev] [Fwd: Re: Plyme...]
+Message-ID: <42383263.6080108@silentsoft.com>
+
+
+-- 
+Antoine Boegli
+Silentsoft SA
+Parc Scientifique PSE - EPFL
+CH-1015 Lausanne
+Switzerland
+Tel: +41 (0)21 693 8654
+aboegli at silentsoft.com 
+
+-------------- next part --------------
+An embedded message was scrubbed...
+From: Yann Lugrin <yann.lugrin at gmproject.net>
+Subject: Re: Plyme...
+Date: Tue, 15 Mar 2005 16:53:35 +0100
+Size: 1457
+URL: <https://lists.berlios.de/pipermail/plyme-dev/attachments/20050316/fe7203f9/attachment.mht>
+-------------- next part --------------
+An embedded message was scrubbed...
+From: Yann Lugrin <yann.lugrin at gmproject.net>
+Subject: Re: Plyme...
+Date: Tue, 15 Mar 2005 14:27:29 +0100
+Size: 1549
+URL: <https://lists.berlios.de/pipermail/plyme-dev/attachments/20050316/fe7203f9/attachment-0001.mht>
+-------------- next part --------------
+An embedded message was scrubbed...
+From: Yann Lugrin <yann.lugrin at gmproject.net>
+Subject: Re: Plyme...
+Date: Tue, 15 Mar 2005 14:22:56 +0100
+Size: 2372
+URL: <https://lists.berlios.de/pipermail/plyme-dev/attachments/20050316/fe7203f9/attachment-0002.mht>
+-------------- next part --------------
+An embedded message was scrubbed...
+From: Matthias Wiesmann <matthias.wiesmann at a3.epfl.ch>
+Subject: Re: Plyme...
+Date: Tue, 15 Mar 2005 14:10:09 +0100
+Size: 2478
+URL: <https://lists.berlios.de/pipermail/plyme-dev/attachments/20050316/fe7203f9/attachment-0003.mht>
+-------------- next part --------------
+An embedded message was scrubbed...
+From: Yann Lugrin <yann.lugrin at gmproject.net>
+Subject: Re: Plyme...
+Date: Tue, 15 Mar 2005 14:09:46 +0100
+Size: 1909
+URL: <https://lists.berlios.de/pipermail/plyme-dev/attachments/20050316/fe7203f9/attachment-0004.mht>
+-------------- next part --------------
+An embedded message was scrubbed...
+From: Matthias Wiesmann <matthias.wiesmann at a3.epfl.ch>
+Subject: Re: Plyme...
+Date: Tue, 15 Mar 2005 14:09:21 +0100
+Size: 2525
+URL: <https://lists.berlios.de/pipermail/plyme-dev/attachments/20050316/fe7203f9/attachment-0005.mht>
+-------------- next part --------------
+An embedded message was scrubbed...
+From: Yann Lugrin <yann.lugrin at gmproject.net>
+Subject: Re: Plyme...
+Date: Tue, 15 Mar 2005 14:04:02 +0100
+Size: 1906
+URL: <https://lists.berlios.de/pipermail/plyme-dev/attachments/20050316/fe7203f9/attachment-0006.mht>
+-------------- next part --------------
+An embedded message was scrubbed...
+From: Matthias Wiesmann <matthias.wiesmann at a3.epfl.ch>
+Subject: Re: Plyme...
+Date: Tue, 15 Mar 2005 13:33:57 +0100
+Size: 3323
+URL: <https://lists.berlios.de/pipermail/plyme-dev/attachments/20050316/fe7203f9/attachment-0007.mht>
+-------------- next part --------------
+An embedded message was scrubbed...
+From: Yann Lugrin <yann.lugrin at gmproject.net>
+Subject: Re: Plyme...
+Date: Tue, 15 Mar 2005 12:08:46 +0100
+Size: 1712
+URL: <https://lists.berlios.de/pipermail/plyme-dev/attachments/20050316/fe7203f9/attachment-0008.mht>
+-------------- next part --------------
+An embedded message was scrubbed...
+From: Yann Lugrin <yann.lugrin at gmproject.net>
+Subject: Re: Plyme...
+Date: Tue, 15 Mar 2005 11:50:38 +0100
+Size: 1611
+URL: <https://lists.berlios.de/pipermail/plyme-dev/attachments/20050316/fe7203f9/attachment-0009.mht>
+-------------- next part --------------
+An embedded message was scrubbed...
+From: Matthias Wiesmann <matthias.wiesmann at a3.epfl.ch>
+Subject: Re: Plyme...
+Date: Tue, 15 Mar 2005 11:23:49 +0100
+Size: 10569
+URL: <https://lists.berlios.de/pipermail/plyme-dev/attachments/20050316/fe7203f9/attachment-0010.mht>
+
+From aboegli at silentsoft.com  Wed Mar 16 14:21:13 2005
+From: aboegli at silentsoft.com (aboegli at silentsoft.com)
+Date: Wed, 16 Mar 2005 14:21:13 +0100
+Subject: [Plyme-dev] Ok, on est tous =?ISO-8859-1?Q?l=E0_=3F?=
+Message-ID: <423832C9.8070404@silentsoft.com>
+
+Ok, on est tous l? ?
+
+Si oui, on peut commencer ? causer de comment on se connecte sur le 
+repository et tout ?a.
+
+
+-- 
+Antoine Boegli
+Silentsoft SA
+Parc Scientifique PSE - EPFL
+CH-1015 Lausanne
+Switzerland
+Tel: +41 (0)21 693 8654
+aboegli at silentsoft.com 
+
+
+
+From yann.lugrin at gmproject.net  Wed Mar 16 15:15:19 2005
+From: yann.lugrin at gmproject.net (Yann Lugrin)
+Date: Wed, 16 Mar 2005 15:15:19 +0100
+Subject: [Plyme-dev] Ok, on est tous =?iso-8859-1?q?l=E0?= ?
+In-Reply-To: <423832C9.8070404@silentsoft.com>
+References: <423832C9.8070404@silentsoft.com>
+Message-ID: <200503161515.20045.yann.lugrin@gmproject.net>
+
+> Si oui, on peut commencer ? causer de comment on se connecte sur le
+> repository et tout ?a.
+
+Ouais,
+
+on devrait peut-?tre faire diff?rents projet dans le rep... enfinun. Genre :
+
+/JeNeSaitPasQuoi/trunk
+/JeNeSaitPasQuoi/branches
+/JeNeSaitPasQuoi/tags
+
+Histoire que on puisse s?parer les repo des projets li?s a plyme.
+
+ou alors trunk, ... directement. Enfin la premi?re version est celle 
+conseill?, la seconde est celle utilis? quand tu sait que tu n'aurra pas (? 
+coup sure) plusieurs projets li? dans le meme repo.
+
+J'ai peu me log sinon, en ssh et ? svn
+
+Yann.
+
+-- 
+Yann Lugrin
+yann.lugrin at gmproject.net
+
+http://www.sans-savoir.net
+
+
+From aboegli at silentsoft.com  Wed Mar 16 15:59:44 2005
+From: aboegli at silentsoft.com (aboegli at silentsoft.com)
+Date: Wed, 16 Mar 2005 15:59:44 +0100
+Subject: [Fwd: Re: [Plyme-dev] Ok, on est tous =?ISO-8859-1?Q?l=E0_=3F=5D?=
+Message-ID: <423849E0.3070606@silentsoft.com>
+
+bon, faudra param?trer deux-trois trucs dans la liste...
+
+-- 
+Antoine Boegli
+Silentsoft SA
+Parc Scientifique PSE - EPFL
+CH-1015 Lausanne
+Switzerland
+Tel: +41 (0)21 693 8654
+aboegli at silentsoft.com 
+
+-------------- next part --------------
+An embedded message was scrubbed...
+From: "aboegli at silentsoft.com" <aboegli at silentsoft.com>
+Subject: Re: [Plyme-dev] Ok, on est tous l? ?
+Date: Wed, 16 Mar 2005 15:58:16 +0100
+Size: 1230
+URL: <https://lists.berlios.de/pipermail/plyme-dev/attachments/20050316/2be7d449/attachment.mht>
+
+From aboegli at silentsoft.com  Wed Mar 16 16:42:45 2005
+From: aboegli at silentsoft.com (aboegli at silentsoft.com)
+Date: Wed, 16 Mar 2005 16:42:45 +0100
+Subject: [Plyme-dev] =?ISO-8859-1?Q?Re=3A_=5BFwd=3A_Re=3A_=5BPlyme-dev=5D_Ok=2C?=
+ =?ISO-8859-1?Q?_on_est_tous_l=E0_=3F=5D?=
+In-Reply-To: <423849E0.3070606@silentsoft.com>
+References: <423849E0.3070606@silentsoft.com>
+Message-ID: <423853F5.2080409@silentsoft.com>
+
+aboegli at silentsoft.com wrote:
+
+> bon, faudra param?trer deux-trois trucs dans la liste...
+>
+>
+> ------------------------------------------------------------------------
+>
+> Subject:
+> Re: [Plyme-dev] Ok, on est tous l? ?
+> From:
+> "aboegli at silentsoft.com" <aboegli at silentsoft.com>
+> Date:
+> Wed, 16 Mar 2005 15:58:16 +0100
+> To:
+> Yann Lugrin <yann.lugrin at gmproject.net>
+>
+> To:
+> Yann Lugrin <yann.lugrin at gmproject.net>
+>
+>
+> Yann Lugrin wrote:
+>
+>>> Si oui, on peut commencer ? causer de comment on se connecte sur le
+>>> repository et tout ?a.
+>>>   
+>>
+>>
+>> Ouais,
+>>
+>> on devrait peut-?tre faire diff?rents projet dans le rep... enfinun. 
+>> Genre :
+>>
+>> /JeNeSaitPasQuoi/trunk
+>> /JeNeSaitPasQuoi/branches
+>> /JeNeSaitPasQuoi/tags
+>>
+>> Histoire que on puisse s?parer les repo des projets li?s a plyme.
+>>  
+>>
+> plyme-core-alpha    pour le backend
+> plyme-gui-alpha      pour l'interface graphique
+>
+>
+
+donc
+
+/plyme-core-alpha/trunk
+/plyme-core-alpha/branches
+/plyme-core-alpha/tags
+
+/plyme-gui-alpha/trunk
+/plyme-gui-alpha/branches
+/plyme-gui-alpha/tags
+
+euh... tu peux les cr?er ?
+
+-- 
+Antoine Boegli
+Silentsoft SA
+Parc Scientifique PSE - EPFL
+CH-1015 Lausanne
+Switzerland
+Tel: +41 (0)21 693 8654
+aboegli at silentsoft.com 
+
+
+
+From yann.lugrin at gmproject.net  Thu Mar 17 10:28:11 2005
+From: yann.lugrin at gmproject.net (Yann Lugrin)
+Date: Thu, 17 Mar 2005 10:28:11 +0100
+Subject: [Plyme-dev] Re: [Fwd: Re: [Plyme-dev] Ok, on est tous =?iso-8859-1?q?l=E0?= ?]
+In-Reply-To: <423853F5.2080409@silentsoft.com>
+References: <423849E0.3070606@silentsoft.com> <423853F5.2080409@silentsoft.com>
+Message-ID: <200503171028.11428.yann.lugrin@gmproject.net>
+
+On Wednesday, 16 March 2005 16.42, aboegli at silentsoft.com wrote:
+> euh... tu peux les cr?er ?
+
+fait.
+
+Pendant que j'y ?tait j'ai aussi mis en place un download automatique tout les 
+matin (? 5h) de l'archive du repos pour backup (ce fichier est backup? dans 
+le syst?me de backup de LC toute les nuit, donc pas de souci).
+
+Et pour faire bonne mesure j'ai configur? la ML des checkins :
+
+plyme-svncheckins at lists.berlios.de
+
+Tout commit sur le svn est envoy? ? la ML et donc on peut recevoir un email 
+pour en ?tre averti (La ML est pas encore fonctionnel).
+
+La suite au prochain ?pisode.
+
+Yann.
+
+-- 
+Yann Lugrin
+yann.lugrin at gmproject.net
+
+http://www.sans-savoir.net
+
+
+From aboegli at silentsoft.com  Thu Mar 17 10:50:41 2005
+From: aboegli at silentsoft.com (aboegli at silentsoft.com)
+Date: Thu, 17 Mar 2005 10:50:41 +0100
+Subject: [Plyme-dev] =?ISO-8859-1?Q?Re=3A_=5BPlyme-dev=5D_Re=3A_=5BFwd=3A_Re=3A?=
+ =?ISO-8859-1?Q?_=5BPlyme-dev=5D_Ok=2C_on_est_tous_l=E0_=3F?=
+ =?ISO-8859-1?Q?=5D?=
+In-Reply-To: <200503171028.11428.yann.lugrin@gmproject.net>
+References: <423849E0.3070606@silentsoft.com> <423853F5.2080409@silentsoft.com> <200503171028.11428.yann.lugrin@gmproject.net>
+Message-ID: <423952F1.8070303@silentsoft.com>
+
+Yann Lugrin wrote:
+
+>On Wednesday, 16 March 2005 16.42, aboegli at silentsoft.com wrote:
+>  
+>
+>>euh... tu peux les cr?er ?
+>>    
+>>
+>
+>fait.
+>  
+>
+m?tal de poids atomique 58.6934
+
+>Pendant que j'y ?tait j'ai aussi mis en place un download automatique tout les 
+>matin (? 5h) de l'archive du repos pour backup (ce fichier est backup? dans 
+>le syst?me de backup de LC toute les nuit, donc pas de souci).
+>
+>Et pour faire bonne mesure j'ai configur? la ML des checkins :
+>
+>plyme-svncheckins at lists.berlios.de
+>
+>Tout commit sur le svn est envoy? ? la ML et donc on peut recevoir un email 
+>pour en ?tre averti (La ML est pas encore fonctionnel).
+>
+>La suite au prochain ?pisode.
+>
+Ben voil?, c'est tout parfait.
+
+J'ai pour ma part modifi? la ML plyme-dev pour que le reply-to soit la 
+liste elle-m?me.
+
+-- 
+
+Antoine Boegli
+Silentsoft SA
+Parc Scientifique PSE - EPFL
+CH-1015 Lausanne
+Switzerland
+Tel: +41 (0)21 693 8654
+aboegli at silentsoft.com 
+
+
+
+From aboegli at silentsoft.com  Thu Mar 17 10:57:00 2005
+From: aboegli at silentsoft.com (aboegli at silentsoft.com)
+Date: Thu, 17 Mar 2005 10:57:00 +0100
+Subject: [Plyme-dev] =?ISO-8859-1?Q?Re=3A_=5BPlyme-dev=5D_Re=3A_=5BPlyme-dev=5D?=
+ =?ISO-8859-1?Q?_Re=3A_=5BFwd=3A_Re=3A_=5BPlyme-dev=5D_Ok=2C_?=
+ =?ISO-8859-1?Q?on_est_tous_l=E0_=3F=5D?=
+In-Reply-To: <423952F1.8070303@silentsoft.com>
+References: <423849E0.3070606@silentsoft.com> <423853F5.2080409@silentsoft.com> <200503171028.11428.yann.lugrin@gmproject.net> <423952F1.8070303@silentsoft.com>
+Message-ID: <4239546C.8060904@silentsoft.com>
+
+aboegli at silentsoft.com wrote:
+
+>
+> J'ai pour ma part modifi? la ML plyme-dev pour que le reply-to soit la 
+> liste elle-m?me.
+>
+Par contre, faudra que je change le parsing de la ligne de titre...
+
+-- 
+Antoine Boegli
+Silentsoft SA
+Parc Scientifique PSE - EPFL
+CH-1015 Lausanne
+Switzerland
+Tel: +41 (0)21 693 8654
+aboegli at silentsoft.com 
+
+
+
+From yann.lugrin at gmproject.net  Thu Mar 17 11:02:04 2005
+From: yann.lugrin at gmproject.net (Yann Lugrin)
+Date: Thu, 17 Mar 2005 11:02:04 +0100
+Subject: [Plyme-dev] Re: [Plyme-dev] Re: [Fwd: Re: [Plyme-dev] Ok, on est tous =?iso-8859-1?q?l=E0?= ?]
+In-Reply-To: <423952F1.8070303@silentsoft.com>
+References: <423849E0.3070606@silentsoft.com> <200503171028.11428.yann.lugrin@gmproject.net> <423952F1.8070303@silentsoft.com>
+Message-ID: <200503171102.04585.yann.lugrin@gmproject.net>
+
+> J'ai pour ma part modifi? la ML plyme-dev pour que le reply-to soit la
+> liste elle-m?me.
+
+dev.plyme.org pointe maintenant sur plyme.berlios.de qui renvoie 
+automatiquement sur la page du projet.
+
+-- 
+Yann Lugrin
+yann.lugrin at gmproject.net
+
+http://www.sans-savoir.net
+
+
+From yann.lugrin at gmproject.net  Thu Mar 17 14:04:02 2005
+From: yann.lugrin at gmproject.net (Yann Lugrin)
+Date: Thu, 17 Mar 2005 14:04:02 +0100
+Subject: [Plyme-dev] Re: [Fwd: Re: [Plyme-dev] Ok, on est tous =?iso-8859-1?q?l=E0?= ?]
+In-Reply-To: <200503171028.11428.yann.lugrin@gmproject.net>
+References: <423849E0.3070606@silentsoft.com> <423853F5.2080409@silentsoft.com> <200503171028.11428.yann.lugrin@gmproject.net>
+Message-ID: <200503171404.03003.yann.lugrin@gmproject.net>
+
+On Thursday, 17 March 2005 10.28, Yann Lugrin wrote:
+> plyme-svncheckins at lists.berlios.de
+
+Fonctionnel, y aurra de la config a faire pour eviter que on puisse poster 
+dessus. Verais ca plus tard.
+
+-- 
+Yann Lugrin
+yann.lugrin at gmproject.net
+
+http://www.sans-savoir.net
+
+
